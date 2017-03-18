@@ -7,6 +7,13 @@
     font-family: oleo script;
     font-size: 40px;
     text-shadow: 2px 2px #000000;
+      
+}
+.page-footer .circle {
+    width: 19%;
+    padding: 10px;
     
-    
+}
+.nav-wrapper .sidetext {
+    color: white;
 }
